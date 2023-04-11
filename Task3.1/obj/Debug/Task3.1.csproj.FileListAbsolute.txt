@@ -1,0 +1,8 @@
+D:\1project\source\repos\Task3.1\Task3.1\bin\Debug\Task3.1.exe.config
+D:\1project\source\repos\Task3.1\Task3.1\bin\Debug\Task3.1.exe
+D:\1project\source\repos\Task3.1\Task3.1\bin\Debug\Task3.1.pdb
+D:\1project\source\repos\Task3.1\Task3.1\obj\Debug\Task3.1.csproj.AssemblyReference.cache
+D:\1project\source\repos\Task3.1\Task3.1\obj\Debug\Task3.1.csproj.SuggestedBindingRedirects.cache
+D:\1project\source\repos\Task3.1\Task3.1\obj\Debug\Task3.1.csproj.CoreCompileInputs.cache
+D:\1project\source\repos\Task3.1\Task3.1\obj\Debug\Task3.1.exe
+D:\1project\source\repos\Task3.1\Task3.1\obj\Debug\Task3.1.pdb
